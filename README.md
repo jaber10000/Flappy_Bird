@@ -11,9 +11,5 @@ Play it here: [(https://jaber10000.github.io/Flappy_Bird/)]
 - **CSS3**
 - **JavaScript (Vanilla)**
 
-## 📸 Screenshots
-<!-- Replace with your actual screenshots -->
-![Gameplay Screenshot](link-to-screenshot1)
-![Game Over Screen](link-to-screenshot2)
 
 ## 📂 Project Structure
