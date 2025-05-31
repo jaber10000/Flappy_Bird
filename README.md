@@ -11,5 +11,7 @@ Play it here: [(https://jaber10000.github.io/Flappy_Bird/)]
 - **CSS3**
 - **JavaScript**
 
-
-## 📂 Project Structure
+## ✨ Future Improvements
+- 🔊 Add sound effects
+- 🏆 High score saving system
+- 📱 Touch controls for mobile
