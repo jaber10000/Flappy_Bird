@@ -9,7 +9,7 @@ Play it here: [(https://jaber10000.github.io/Flappy_Bird/)]
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript **
 
 
 ## 📂 Project Structure
