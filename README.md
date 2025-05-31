@@ -1,17 +1,19 @@
-# Flappy_Bird
-Sure! Here's a concise description under 320 characters:  > A simple Flappy Bird clone built using HTML, CSS, and JavaScript. Control the bird, avoid the pipes, and try to get the highest score! This lightweight browser game works on desktop and mobile. Great for beginners learning game development.
-Technologies Used
-HTML5
+# 🐦 Flappy Bird - JS Edition
 
-CSS3
+A basic Flappy Bird-style game created with **HTML**, **CSS**, and **JavaScript**. Tap or press spacebar to keep the bird flying and avoid obstacles. Fun and addictive—try to beat your high score!
 
-JavaScript (Vanilla)
+## 🚀 Live Demo
+Play it here: [https://your-username.github.io/flappy-bird-js](https://your-username.github.io/flappy-bird-js)  
+*(Replace with your actual GitHub Pages link)*
 
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
 
-Future Improvements
+## 📸 Screenshots
+<!-- Replace with your actual screenshots -->
+![Gameplay Screenshot](link-to-screenshot1)
+![Game Over Screen](link-to-screenshot2)
 
-Add sound effects
-
-High score system
-
-Touch controls for mobile
+## 📂 Project Structure
