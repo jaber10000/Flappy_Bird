@@ -4,12 +4,12 @@ A basic Flappy Bird-style game created with **HTML**, **CSS**, and **JavaScript*
 
 ## 🚀 Live Demo
 Play it here: [(https://jaber10000.github.io/Flappy_Bird/)]  
-*(Replace with your actual GitHub Pages link)*
+
 
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
-- **JavaScript **
+- **JavaScript**
 
 
 ## 📂 Project Structure
